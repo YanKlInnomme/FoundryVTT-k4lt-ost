@@ -2,6 +2,9 @@
 
 Ce module permet de profiter de la bande sonore originale de KULT: Divinity Lost directement dans Foundry VTT pour animer vos sessions de jeu.
 
+![162925347-1c696e-00 _Cover___Liner_Notes_01](https://user-images.githubusercontent.com/100078854/221789833-249a6465-e8c9-4c4c-8440-0c3408796639.png)
+[162925347-1c696e-00._Cover___Liner_Notes.pdf](https://github.com/YanKlInnomme/FoundryVTT-k4lt-ost/files/10847785/162925347-1c696e-00._Cover___Liner_Notes.pdf)
+
 Si vous appréciez le module et que vous avez les moyens de le faire, vous pouvez me soutenir via Tipeee (https://fr.tipeee.com/yank/news) pour m'aider à continuer l'aventure. Dans tous les cas, je vous souhaite de vous amuser pleinement, et n'hésitez pas à me contacter pour me donner votre avis ou me signaler tout problème éventuel.
 
 L'OST de KULT Divinity Lost est composée de 27 pistes créées par plusieurs artistes différents. Voici la liste des artistes ayant contribué à la bande sonore de ce jeu:
