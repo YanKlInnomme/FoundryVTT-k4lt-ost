@@ -1,0 +1,41 @@
+{
+    "name": "k4lt-ost",
+    "title": "Kult Divinity Lost OST",
+    "description": "The OST for KULT: Divinity Lost was composed by Swedish industrial music group Cryo Chamber and was released in 2018. The music in the OST is dark, intense and atmospheric, in keeping with the dark and mysterious atmosphere of the role-playing game. The OST is available on several music streaming platforms, and can also be purchased as a CD or digital download from the official Cryo Chamber website.",
+    "version": "1.0.0",
+    "license": "LICENSE",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10.291",
+    "maximum": "11"
+  },
+  "authors": [
+    {
+      "name": "YanK",
+      "url": "https://fr.tipeee.com/yank",
+      "email": "yanklinnomme@gmail.com",
+      "discord": "YanK#8683"
+    }
+  ],
+    "dependencies":
+	[
+		{
+		"name": "k4lt",
+		"type": "system"
+		}
+	],
+    "packs": [
+    {
+      "name": "k4lt-ost",
+      "label": "Kult Divinity Lost OST",
+      "system": "k4lt",
+      "module": "k4lt-ost",
+      "path": "packs/k4lt-ost.db",
+      "entity": "Playlist"
+    }
+    ],
+	"system": ["k4lt"],
+    "url": "https://github.com/YanKlInnomme/FoundryVTT-k4lt-ost",
+    "manifest": "",
+    "download": ""
+}
