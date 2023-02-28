@@ -1,6 +1,6 @@
 {
-    "name": "k4lt-ost",
-    "title": "Original Soundtrack for KULT: Divinity Lost (4th Edition)",
+    "id": "k4lt-ost",
+    "title": "KULT: Divinity Lost (4th Edition) · Original Soundtrack",
     "description": "",
     "version": "1.0.0",
     "license": "LICENSE",
@@ -17,24 +17,24 @@
       "discord": "YanK#8683"
     }
   ],
-    "dependencies":
+    "relationships.requires":
 	[
 		{
-		"name": "k4lt",
+		"id": "k4lt",
 		"type": "system"
 		}
 	],
     "packs": [
     {
       "name": "k4lt-ost",
-      "label": "Kult Divinity Lost OST",
+      "label": "KULT: Divinity Lost · OST",
       "system": "k4lt",
       "module": "k4lt-ost",
       "path": "packs/k4lt-ost.db",
-      "entity": "Playlist"
+      "type": "Playlist"
     }
     ],
-	"system": ["k4lt"],
+	"relationships.systems": ["k4lt"],
     "url": "https://github.com/YanKlInnomme/FoundryVTT-k4lt-ost",
     "manifest": "",
     "download": ""
