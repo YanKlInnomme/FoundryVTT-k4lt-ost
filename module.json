@@ -2,7 +2,7 @@
   "id": "k4lt-ost",
   "title": "KULT: Divinity Lost · Original Soundtrack",
   "description": "This module allows you to enjoy the original soundtrack of KULT: Divinity Lost directly in Foundry VTT to animate your gaming sessions.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "LICENSE",
   "compatibility": {
     "minimum": "10",
@@ -17,14 +17,11 @@
       "discord": "YanK#8683"
     }
   ],
-  "relationships.systems": ["k4lt"],
-  "relationships.requires":
-	[
-		{
-		"name": "k4lt",
-		"type": "system"
-		}
-	],
+  "relationships": {
+    "systems": [
+      {"id": "k4lt"}
+    ]
+  },
     "packs": [
     {
       "name": "k4lt-ost",

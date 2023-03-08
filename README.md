@@ -35,6 +35,15 @@ Afin de fonctionner ce module nécessite les installations préalables suivantes
  * Le logiciel Foundry VTT pour jouer aux jeux de rôle sur table (TTRPG) en ligne (https://foundryvtt.com/)
  * Le système k4lt · KULT : Divinity Lost (4th Edition) (https://github.com/YanKlInnomme/FoundryVTT-k4lt)
 
+
+## Version 1.0.1
+
+ * Mise à jour du manifeste
+
+## Version 1.0.0
+
+ * Ajout des pistes MP3 (qualité : 128Kbits/s)
+
  ---------------------------------------------------------------------
 
  # k4lt-ost module for Foundry VTT
@@ -70,3 +79,11 @@ If you like the module and have the means, you can support me via Tipeee (https:
 In order to work this module requires the following prerequisites:
  * Foundry VTT online tabletop role-playing game (TTRPG) software (https://foundryvtt.com/)
  * The k4lt system - KULT: Divinity Lost (4th Edition) (https://github.com/YanKlInnomme/FoundryVTT-k4lt)
+
+## Version 1.0.1
+
+ * Manifest update
+
+## Version 1.0.0
+
+ * MP3 tracks added (quality: 128Kbits/s)
